@@ -1,5 +1,7 @@
 # Lucky Personality 🎲
 
+**Author:** Sunil Suman
+
 A fun, colorful React game that reveals your lucky personality based on your gender and lucky number. Built with functional components, smooth animations, and a playful UI.
 
 ![React](https://img.shields.io/badge/React-18-61dafb?style=flat&logo=react&logoColor=white)

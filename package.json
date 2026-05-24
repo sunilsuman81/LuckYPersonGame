@@ -1,6 +1,7 @@
 {
   "name": "lucky-personality",
   "version": "1.0.0",
+  "author": "Sunil Suman",
   "private": true,
   "dependencies": {
     "canvas-confetti": "^1.9.3",

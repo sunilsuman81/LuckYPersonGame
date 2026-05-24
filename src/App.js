@@ -1,3 +1,8 @@
+/**
+ * Lucky Personality Game
+ * @author Sunil Suman
+ */
+
 import { useState, useCallback, useEffect } from 'react';
 import confetti from 'canvas-confetti';
 import './App.css';
